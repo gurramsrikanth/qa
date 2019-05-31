@@ -19,4 +19,4 @@ For Android the following drivers are supported
 1. Espresso driver
 
 ## Driver setup
-1. [Android setup for using UiAutomator](/SetupForAndroid.md)
+1. [Android setup for using UiAutomator](SetupForAndroid.md)
