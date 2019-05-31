@@ -37,7 +37,7 @@ Following are the popular Web Automation tools
 
 Following are some of the most popular mobile automation tools
 
-1. [Appium](/mobile_automation/appium/Main.md)
+1. [Appium](/MobileAutomation/Appium/Main.md)
 1. UiAutomator
 1. Robotium
 
